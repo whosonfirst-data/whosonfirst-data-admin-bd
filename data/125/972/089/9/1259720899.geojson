@@ -51,7 +51,7 @@
         "wk:page":"Ramsagar"
     },
     "wof:country":"BD",
-    "wof:geomhash":"e9596db71d25103438f04c76a014938b",
+    "wof:geomhash":"ba05c2ded0efca26a58a05f7ddc9e629",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     88.62106999999997,
     25.55561
 ],
-  "geometry": {"coordinates":[88.62106999999997,25.55561],"type":"Point"}
+  "geometry": {"coordinates":[88.62107,25.55561],"type":"Point"}
 }

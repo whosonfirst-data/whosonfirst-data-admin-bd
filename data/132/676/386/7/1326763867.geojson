@@ -48,7 +48,7 @@
         "wk:page":"Khuriakhali"
     },
     "wof:country":"BD",
-    "wof:geomhash":"e10c048bdb1017ac2584c16fbb672765",
+    "wof:geomhash":"7b47476eb0824f09280e7a496772f006",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.82493000000002,
     22.22816
 ],
-  "geometry": {"coordinates":[89.82493000000002,22.22816],"type":"Point"}
+  "geometry": {"coordinates":[89.82493,22.22816],"type":"Point"}
 }

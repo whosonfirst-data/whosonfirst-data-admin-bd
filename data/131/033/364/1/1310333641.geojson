@@ -48,7 +48,7 @@
         "wk:page":"Indurkani"
     },
     "wof:country":"BD",
-    "wof:geomhash":"2ec62a2e26048567c318e87729d7ae49",
+    "wof:geomhash":"967fe5674f10d91f989090607a64c99a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.96869000000002,
     22.4875
 ],
-  "geometry": {"coordinates":[89.96869000000002,22.4875],"type":"Point"}
+  "geometry": {"coordinates":[89.96869,22.4875],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Tushkhali"
     },
     "wof:country":"BD",
-    "wof:geomhash":"84075c13d3403a91d54237c93d5767d3",
+    "wof:geomhash":"c591af40e3cb37d388172cc6c8d1275b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     89.93578000000002,
     22.363
 ],
-  "geometry": {"coordinates":[89.93578000000002,22.363],"type":"Point"}
+  "geometry": {"coordinates":[89.93578,22.363],"type":"Point"}
 }

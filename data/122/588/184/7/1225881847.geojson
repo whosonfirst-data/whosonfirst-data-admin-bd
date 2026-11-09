@@ -45,7 +45,7 @@
         "wk:page":"Naltona"
     },
     "wof:country":"BD",
-    "wof:geomhash":"e6d24a0b9659c2f8d7530ff5bc0bcd63",
+    "wof:geomhash":"30092f832eb33bf30cec2a716236cc0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     90.01666999999998,
     22.0
 ],
-  "geometry": {"coordinates":[90.01666999999998,22.0],"type":"Point"}
+  "geometry": {"coordinates":[90.01667,22],"type":"Point"}
 }

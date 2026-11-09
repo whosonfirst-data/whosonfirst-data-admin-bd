@@ -51,7 +51,7 @@
         "wk:page":"Jnanpara"
     },
     "wof:country":"BD",
-    "wof:geomhash":"59e29e7b55a0219e576427cd009a36ef",
+    "wof:geomhash":"b4bfc94e9c83d30a4e222cabc5dbcd14",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     90.01666999999998,
     22.16667
 ],
-  "geometry": {"coordinates":[90.01666999999998,22.16667],"type":"Point"}
+  "geometry": {"coordinates":[90.01667,22.16667],"type":"Point"}
 }

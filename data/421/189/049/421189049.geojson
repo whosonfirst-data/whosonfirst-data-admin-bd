@@ -72,7 +72,7 @@
     },
     "wof:country":"BD",
     "wof:created":1459009603,
-    "wof:geomhash":"31b63228681cfd83b3e5b23634016607",
+    "wof:geomhash":"054583ba76b5fc8f5775dc3d070cba12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     91.102316,
     23.9679695
 ],
-  "geometry": {"coordinates":[91.102316,23.9679695],"type":"Point"}
+  "geometry": {"coordinates":[91.102316,23.96797],"type":"Point"}
 }

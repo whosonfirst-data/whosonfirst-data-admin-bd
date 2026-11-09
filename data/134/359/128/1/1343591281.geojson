@@ -48,7 +48,7 @@
         "wk:page":"Char_Doani_Lathimara"
     },
     "wof:country":"BD",
-    "wof:geomhash":"f5932301f1ee3cc1590486bda344ce4e",
+    "wof:geomhash":"b78fb296c42a112e8c03781f66c3f9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.97303000000002,
     21.99816
 ],
-  "geometry": {"coordinates":[89.97303000000002,21.99816],"type":"Point"}
+  "geometry": {"coordinates":[89.97303,21.99816],"type":"Point"}
 }

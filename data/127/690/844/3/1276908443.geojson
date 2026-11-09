@@ -48,7 +48,7 @@
         "wk:page":"Kesarta"
     },
     "wof:country":"BD",
-    "wof:geomhash":"fcc63877cdac98ec9a6fc93dd3f4788d",
+    "wof:geomhash":"b9a4011e117e2c9d5f9ccd9263ba6860",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     90.04316999999998,
     22.59019
 ],
-  "geometry": {"coordinates":[90.04316999999998,22.59019],"type":"Point"}
+  "geometry": {"coordinates":[90.04317,22.59019],"type":"Point"}
 }

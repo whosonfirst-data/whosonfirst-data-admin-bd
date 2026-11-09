@@ -54,7 +54,7 @@
         "wk:page":"East_Jorkhali"
     },
     "wof:country":"BD",
-    "wof:geomhash":"36761d7009d0a3e3c36b826b50c2b3ca",
+    "wof:geomhash":"58083d00acd84c480f230909f6806cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     90.06343000000003,
     22.34326
 ],
-  "geometry": {"coordinates":[90.06343000000003,22.34326],"type":"Point"}
+  "geometry": {"coordinates":[90.06343,22.34326],"type":"Point"}
 }

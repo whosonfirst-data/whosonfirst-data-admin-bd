@@ -45,7 +45,7 @@
         "wk:page":"Chhota_Patar_Char"
     },
     "wof:country":"BD",
-    "wof:geomhash":"70e8a2889e4098b05cc5bf13760df5f1",
+    "wof:geomhash":"6fd13d8cd792cf4a29ef3c952f93dc82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     90.38938,
     22.95517000000001
 ],
-  "geometry": {"coordinates":[90.38938,22.95517000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.38938,22.95517],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"East_Pasuribania"
     },
     "wof:country":"BD",
-    "wof:geomhash":"6c586152beb941219ba6e162c661eac0",
+    "wof:geomhash":"7833aa7b2358dab5575f94ad1b904b32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     90.00206999999997,
     22.45566
 ],
-  "geometry": {"coordinates":[90.00206999999997,22.45566],"type":"Point"}
+  "geometry": {"coordinates":[90.00207,22.45566],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Baghopara"
     },
     "wof:country":"BD",
-    "wof:geomhash":"ccb6d8ad0c261a57951ab4d069a7fc64",
+    "wof:geomhash":"ae2cf045dd89228ee983a61170ecb8ab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.34700000000002,
     24.91745
 ],
-  "geometry": {"coordinates":[89.34700000000002,24.91745],"type":"Point"}
+  "geometry": {"coordinates":[89.347,24.91745],"type":"Point"}
 }

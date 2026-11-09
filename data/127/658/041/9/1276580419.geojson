@@ -55,7 +55,7 @@
         "wk:page":"Nizamia_Ghopkhali"
     },
     "wof:country":"BD",
-    "wof:geomhash":"46744b6e5fc020f0e48a0d6b50db47ed",
+    "wof:geomhash":"dce29d7a8c143958293664b80d2464e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     89.89388000000002,
     22.26564
 ],
-  "geometry": {"coordinates":[89.89388000000002,22.26564],"type":"Point"}
+  "geometry": {"coordinates":[89.89388,22.26564],"type":"Point"}
 }

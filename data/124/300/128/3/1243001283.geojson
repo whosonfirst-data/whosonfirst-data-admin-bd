@@ -51,7 +51,7 @@
         "wk:page":"Bara_Machhua"
     },
     "wof:country":"BD",
-    "wof:geomhash":"359888eab46a4bffd9f5e65f324065e2",
+    "wof:geomhash":"0ded7177ba290fdd6daffa429cedb43f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     89.89596999999998,
     22.30942000000001
 ],
-  "geometry": {"coordinates":[89.89596999999998,22.30942000000001],"type":"Point"}
+  "geometry": {"coordinates":[89.89597,22.30942],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Char_Bara_Lamchhi_Dhali"
     },
     "wof:country":"BD",
-    "wof:geomhash":"f12e400ae2aa1ed4f67400170e8de1fd",
+    "wof:geomhash":"7eaa0663105852294975f674c549b9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     90.75,
     22.61667000000001
 ],
-  "geometry": {"coordinates":[90.75,22.61667000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.75,22.61667],"type":"Point"}
 }

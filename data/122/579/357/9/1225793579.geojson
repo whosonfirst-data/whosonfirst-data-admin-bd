@@ -48,7 +48,7 @@
         "wk:page":"Balichatia"
     },
     "wof:country":"BD",
-    "wof:geomhash":"a299369eae18b8afa1f090de59bc008e",
+    "wof:geomhash":"c256e7c7f4a4b0d99c7dd4448353aa81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     90.7875,
     23.14097000000001
 ],
-  "geometry": {"coordinates":[90.78749999999999,23.14097000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.7875,23.14097],"type":"Point"}
 }

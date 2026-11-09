@@ -48,7 +48,7 @@
         "wk:page":"Kumar_Barilya"
     },
     "wof:country":"BD",
-    "wof:geomhash":"9a4aa304d656a6ba6d40a5f401d17ede",
+    "wof:geomhash":"8a0bd64c374a05b0d1e5fda3673072d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     90.0763,
     23.67767000000001
 ],
-  "geometry": {"coordinates":[90.0763,23.67767000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.0763,23.67767],"type":"Point"}
 }

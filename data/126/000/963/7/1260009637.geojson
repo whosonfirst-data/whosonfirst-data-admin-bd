@@ -51,7 +51,7 @@
         "wk:page":"Dhaoa"
     },
     "wof:country":"BD",
-    "wof:geomhash":"e406521d1d6c9437ebd8b920e088914b",
+    "wof:geomhash":"d6a4a8465a1a8b3552d5ed327315dc0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     90.02648,
     22.46802000000001
 ],
-  "geometry": {"coordinates":[90.02648000000001,22.46802000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.02648,22.46802],"type":"Point"}
 }

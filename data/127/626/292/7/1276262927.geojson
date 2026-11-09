@@ -66,7 +66,7 @@
         "wk:page":"Goalundo_Ghat"
     },
     "wof:country":"BD",
-    "wof:geomhash":"c419fb20d25c84e196f3dd1e75ab3195",
+    "wof:geomhash":"c49e91df14e5aa8f9badf53221880257",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     89.76496999999998,
     23.72408
 ],
-  "geometry": {"coordinates":[89.76496999999998,23.72408],"type":"Point"}
+  "geometry": {"coordinates":[89.76497,23.72408],"type":"Point"}
 }

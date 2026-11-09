@@ -47,7 +47,7 @@
         "gn:id":7926572
     },
     "wof:country":"BD",
-    "wof:geomhash":"94e1057274a61fda60344d757e36a50f",
+    "wof:geomhash":"62dc7b76f4e94c723e80ebf120d37de7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     89.79954000000002,
     25.61992
 ],
-  "geometry": {"coordinates":[89.79954000000002,25.61992],"type":"Point"}
+  "geometry": {"coordinates":[89.79954,25.61992],"type":"Point"}
 }

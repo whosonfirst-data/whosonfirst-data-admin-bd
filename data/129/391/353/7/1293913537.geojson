@@ -51,7 +51,7 @@
         "wk:page":"Kalaran_Chandipur"
     },
     "wof:country":"BD",
-    "wof:geomhash":"26759a82bca4ed47ead0d4581bbc480f",
+    "wof:geomhash":"be31150c30a8ebb5d3ebb30b224e6ebb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     89.90375999999998,
     22.41421
 ],
-  "geometry": {"coordinates":[89.90375999999998,22.41421],"type":"Point"}
+  "geometry": {"coordinates":[89.90376,22.41421],"type":"Point"}
 }

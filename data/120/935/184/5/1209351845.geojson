@@ -45,7 +45,7 @@
         "wk:page":"Daudkhali"
     },
     "wof:country":"BD",
-    "wof:geomhash":"6584628e5357857d6d7010b0b921a5ec",
+    "wof:geomhash":"51409f9338e9841ecb9ae33a656bf991",
     "wof:hierarchy":[
         {
             "country_id":85632475,
@@ -68,5 +68,5 @@
     90.04489000000002,
     22.35603
 ],
-  "geometry": {"coordinates":[90.04489000000002,22.35603],"type":"Point"}
+  "geometry": {"coordinates":[90.04489,22.35603],"type":"Point"}
 }

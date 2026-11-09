@@ -42,7 +42,7 @@
         "wk:page":"Char_Mahisha"
     },
     "wof:country":"BD",
-    "wof:geomhash":"5f31b5d7360b3780c9a826220ffa5f96",
+    "wof:geomhash":"4a1ff020900132f5458d2aff62bda8c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,5 +67,5 @@
     90.53492,
     22.77292000000001
 ],
-  "geometry": {"coordinates":[90.53492,22.77292000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.53492,22.77292],"type":"Point"}
 }

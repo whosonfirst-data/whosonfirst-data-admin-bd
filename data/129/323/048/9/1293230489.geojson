@@ -50,7 +50,7 @@
         "wk:page":"Bara_Doani"
     },
     "wof:country":"BD",
-    "wof:geomhash":"e93a529b1859789b69dfb612ae5309e4",
+    "wof:geomhash":"a56ed6c7939d3f1c68ee57f21ce5ff9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     89.98333000000002,
     22.1
 ],
-  "geometry": {"coordinates":[89.98333000000002,22.1],"type":"Point"}
+  "geometry": {"coordinates":[89.98333,22.1],"type":"Point"}
 }

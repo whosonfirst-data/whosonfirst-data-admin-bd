@@ -52,7 +52,7 @@
         "wk:page":"Srikanthakati"
     },
     "wof:country":"BD",
-    "wof:geomhash":"39598b728c170851c113f622afd11f9a",
+    "wof:geomhash":"2b6af0993df939fd171cb864dadeedc2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     90.11965,
     22.62052000000001
 ],
-  "geometry": {"coordinates":[90.11964999999999,22.62052000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.11965,22.62052],"type":"Point"}
 }

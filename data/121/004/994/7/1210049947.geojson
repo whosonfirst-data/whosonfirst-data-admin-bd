@@ -48,7 +48,7 @@
         "wk:page":"Burigoalini"
     },
     "wof:country":"BD",
-    "wof:geomhash":"83543ea11456314869ce6b4fef2858ad",
+    "wof:geomhash":"2d97e5de8c1e5db243c0d20cb340d132",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.21708000000002,
     22.26824
 ],
-  "geometry": {"coordinates":[89.21708000000002,22.26824],"type":"Point"}
+  "geometry": {"coordinates":[89.21708,22.26824],"type":"Point"}
 }

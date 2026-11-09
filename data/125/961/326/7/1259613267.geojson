@@ -48,7 +48,7 @@
         "wk:page":"Nadmula"
     },
     "wof:country":"BD",
-    "wof:geomhash":"7e1eed328bb3ffbfa4a36a28d8242cd7",
+    "wof:geomhash":"21437cc63c254fd44183534e9020d10d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     90.01836999999998,
     22.48097000000001
 ],
-  "geometry": {"coordinates":[90.01836999999998,22.48097000000001],"type":"Point"}
+  "geometry": {"coordinates":[90.01837,22.48097],"type":"Point"}
 }

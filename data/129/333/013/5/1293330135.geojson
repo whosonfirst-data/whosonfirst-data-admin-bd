@@ -100,7 +100,7 @@
         "wk:page":"Natore_District"
     },
     "wof:country":"BD",
-    "wof:geomhash":"ed75dd1f128039ce49860f8750d84d09",
+    "wof:geomhash":"20d7238f603335d4592951a08400854a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,5 +128,5 @@
     88.98673000000002,
     24.41112
 ],
-  "geometry": {"coordinates":[88.98673000000002,24.41112],"type":"Point"}
+  "geometry": {"coordinates":[88.98673,24.41112],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Hogalpati"
     },
     "wof:country":"BD",
-    "wof:geomhash":"67793f556c1852eb5129dae7623cd0d3",
+    "wof:geomhash":"5e767ced97c1799814c87e7563fe29ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     90.00825999999998,
     22.21807
 ],
-  "geometry": {"coordinates":[90.00825999999998,22.21807],"type":"Point"}
+  "geometry": {"coordinates":[90.00826,22.21807],"type":"Point"}
 }

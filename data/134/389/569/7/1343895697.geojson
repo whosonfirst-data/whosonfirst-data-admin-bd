@@ -72,7 +72,7 @@
         "wk:page":"Sherpur_Upazila"
     },
     "wof:country":"BD",
-    "wof:geomhash":"03c54b91e70e5f398b5bf2a435fb3bd2",
+    "wof:geomhash":"2414a2e3fd1e6032a1520c5fa47320f6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -98,5 +98,5 @@
     88.92858000000003,
     23.95968
 ],
-  "geometry": {"coordinates":[88.92858000000003,23.95968],"type":"Point"}
+  "geometry": {"coordinates":[88.92858,23.95968],"type":"Point"}
 }

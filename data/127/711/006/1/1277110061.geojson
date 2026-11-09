@@ -48,7 +48,7 @@
         "wk:page":"Umajuri"
     },
     "wof:country":"BD",
-    "wof:geomhash":"76e8de7a4dde704c28889e8dc52d5ec1",
+    "wof:geomhash":"56435d8c98bfaa2683d6e8bca270dbd3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.92211999999998,
     22.73489
 ],
-  "geometry": {"coordinates":[89.92211999999998,22.73489],"type":"Point"}
+  "geometry": {"coordinates":[89.92212,22.73489],"type":"Point"}
 }

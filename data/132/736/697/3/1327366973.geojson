@@ -48,7 +48,7 @@
         "wk:page":"Gilatala"
     },
     "wof:country":"BD",
-    "wof:geomhash":"0d36e52f937026756da42ab178f408d7",
+    "wof:geomhash":"fe8116559f31030bcf9b7f7431842567",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     89.99228000000002,
     22.76788
 ],
-  "geometry": {"coordinates":[89.99228000000002,22.76788],"type":"Point"}
+  "geometry": {"coordinates":[89.99228,22.76788],"type":"Point"}
 }
