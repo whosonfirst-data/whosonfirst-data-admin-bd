@@ -1,0 +1,75 @@
+{
+  "id": 9895092714,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"90.41919,23.72772,90.41919,23.72772",
+    "geom:latitude":23.72772,
+    "geom:longitude":90.41919,
+    "gn:population":202308,
+    "iso:country":"BD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589478: name \"Motijheel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589478"
+        },
+        {
+            "citation":"GeoNames populated place 13589478: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589478"
+        },
+        {
+            "citation":"GeoNames populated place 13589478: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589478"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187803 (Dhaka), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632475,
+        85669009,
+        102191569,
+        421187803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589478
+    },
+    "wof:country":"BD",
+    "wof:geomhash":"2f9ec2d2395c5cb44af5b4b011406889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632475,
+            "county_id":421187803,
+            "locality_id":9895092714,
+            "region_id":85669009
+        }
+    ],
+    "wof:id":9895092714,
+    "wof:lastmodified":1795747333,
+    "wof:name":"Motijheel",
+    "wof:parent_id":421187803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    90.41919,
+    23.72772,
+    90.41919,
+    23.72772
+],
+  "geometry": {"coordinates":[90.41919,23.72772],"type":"Point"}
+}
